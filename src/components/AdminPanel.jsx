@@ -242,6 +242,7 @@ const AdminPanel = () => {
         </p>
       </div>
 
+      {/* <div className="mb-8 p-4 bg-gray-50 rounded-lg"> */}
       <div className="mb-8 p-4 bg-gray-50 rounded-lg">
         <h2 className="text-xl font-semibold mb-4">IPFS File Upload</h2>
         <div className="space-y-4">
